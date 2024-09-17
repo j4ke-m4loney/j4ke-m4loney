@@ -1,4 +1,5 @@
 ## Hi there 👋
+Thank you for visiting my profile
 
 <!--
 **j4ke-m4loney/j4ke-m4loney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
