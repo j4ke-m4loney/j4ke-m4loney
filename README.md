@@ -1,6 +1,14 @@
 ## Hi there 👋
 Thank you for visiting my profile
 
+## My stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=j4ke-m4loney&show_icons=true&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ke-m4loney&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=j4ke-m4loney)](#my-stats)
+
+
 <!--
 **j4ke-m4loney/j4ke-m4loney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
