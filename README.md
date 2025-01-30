@@ -1,5 +1,5 @@
 ## Hi there 👋
-Thank you for visiting my profile
+I'm Jake, a software engineer
 
 ## My stats
 
