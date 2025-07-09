@@ -2,10 +2,10 @@
 I'm Jake, a software engineer that loves building clean, useful web applications that solve real problems.
 
 ## 🧠 About Me  
-- 💻 Full-stack developer with a love for JavaScript (React, Node.js) and Python  
-- 🔨 Currently building **Repriced**, a platform that connects buyers with discounted real estate listings  
-- 📦 Learning in public – you’ll find my mini projects, experiments, and full-stack builds here  
-- 📍 Based in Australia, always coding, always learning
+- Full-stack developer with a love for JavaScript (React, Node.js) and Python  
+- Currently building **Repriced**, a platform that connects buyers with discounted real estate listings  
+- Learning in public – you’ll find my mini projects, experiments, and full-stack builds here  
+- Based in Australia, always coding, always learning
 
 ## 🧩 Tech Stack
 
