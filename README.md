@@ -1,11 +1,5 @@
 ## Hi there 👋
-I'm Jake, a software engineer that loves building clean, useful web applications that solve real problems.
-
-## 🧠 About Me  
-- Full-stack developer with a love for JavaScript (React, Node.js) and Python  
-- Currently building **Repriced**, a platform that connects buyers with discounted real estate listings  
-- Learning in public – you’ll find my mini projects, experiments, and full-stack builds here  
-- Based in Australia, always coding, always learning
+I’m building AI Jobs Australia, the country’s first dedicated job board for AI, ML, and Data Science roles. Our mission is simple: make it easier for talent to find genuine opportunities and help ensure Australia doesn’t get left behind in the global AI race..
 
 ## 🧩 Tech Stack
 
